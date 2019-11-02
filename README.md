@@ -1,2 +1,2 @@
 # JColorsBox
-Java Color picking
+Java Color picking test
