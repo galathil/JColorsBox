@@ -3,8 +3,11 @@ git:
   depth: 1
 language: java
 jdk:
+  - openjdk9
   - openjdk10
   - openjdk11
-  - openjdk8
+  - openjdk12
+  - openjdk13
+  - openjdk14
 script:
   - cd
