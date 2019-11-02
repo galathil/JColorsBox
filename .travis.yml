@@ -6,3 +6,5 @@ jdk:
   - openjdk10
   - openjdk11
   - openjdk8
+script:
+  - cd
