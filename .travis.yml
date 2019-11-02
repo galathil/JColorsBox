@@ -1,1 +1,8 @@
+dist: bionic
+git:
+  depth: 1
 language: java
+jdk:
+  - openjdk10
+  - openjdk11
+  - openjdk8
